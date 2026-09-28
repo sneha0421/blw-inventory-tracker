@@ -1,0 +1,110 @@
+{
+  "items": {
+    "doc_h680ct2fy_1786446963387": {
+      "name": "Bearing Set (WAG-9H)",
+      "category": "Mechanical",
+      "quantity": 45,
+      "minStock": 25,
+      "unitPrice": 850,
+      "lastUpdated": "2026-08-19T11:13:45.222Z"
+    },
+    "doc_q9518buha_1786446963389": {
+      "name": "Copper Wire Roll",
+      "category": "Electrical",
+      "quantity": 12,
+      "minStock": 15,
+      "unitPrice": 1200,
+      "lastUpdated": "2026-08-11T11:16:03.386Z"
+    },
+    "doc_lrny6cl4h_1786446963389": {
+      "name": "Safety Helmet",
+      "category": "Safety Gear",
+      "quantity": 80,
+      "minStock": 30,
+      "unitPrice": 250,
+      "lastUpdated": "2026-08-11T11:16:03.386Z"
+    },
+    "doc_scpkl0upw_1786446963390": {
+      "name": "Hydraulic Oil (5L)",
+      "category": "Consumables",
+      "quantity": 11,
+      "minStock": 10,
+      "unitPrice": 950,
+      "lastUpdated": "2026-08-11T13:39:41.582Z"
+    },
+    "doc_ue4l84ygt_1786446963391": {
+      "name": "Wrench Set",
+      "category": "Tools",
+      "quantity": 25,
+      "minStock": 10,
+      "unitPrice": 600,
+      "lastUpdated": "2026-08-11T11:16:03.386Z"
+    },
+    "doc_wfppo9qbd_1786446963391": {
+      "name": "Circuit Breaker",
+      "category": "Electrical",
+      "quantity": 18,
+      "minStock": 20,
+      "unitPrice": 2100,
+      "lastUpdated": "2026-08-11T11:16:03.386Z"
+    },
+    "doc_1ugjdw4ow_1786446963392": {
+      "name": "Welding Rod (Pack)",
+      "category": "Consumables",
+      "quantity": 60,
+      "minStock": 25,
+      "unitPrice": 340,
+      "lastUpdated": "2026-08-11T11:16:03.386Z"
+    },
+    "doc_hp7p5fqiv_1786446963393": {
+      "name": "Steel Rivets (Box)",
+      "category": "Mechanical",
+      "quantity": 5,
+      "minStock": 15,
+      "unitPrice": 180,
+      "lastUpdated": "2026-08-11T11:16:03.386Z"
+    },
+    "doc_s0bt1mmfi_1786446963393": {
+      "name": "Insulation Tape",
+      "category": "Electrical",
+      "quantity": 100,
+      "minStock": 40,
+      "unitPrice": 45,
+      "lastUpdated": "2026-08-11T11:16:03.386Z"
+    },
+    "doc_qr76c7z10_1786446963394": {
+      "name": "Torque Wrench",
+      "category": "Tools",
+      "quantity": 7,
+      "minStock": 5,
+      "unitPrice": 1800,
+      "lastUpdated": "2026-08-11T11:16:03.386Z"
+    },
+    "doc_ep1zho3ah_1786454815934": {
+      "name": "item",
+      "category": "Safety Gear",
+      "quantity": 5,
+      "minStock": 2,
+      "unitPrice": 0,
+      "lastUpdated": "2026-08-11T13:26:55.934Z"
+    }
+  },
+  "transactions": {
+    "doc_t4aij1wf1_1786448727729": {
+      "itemId": "doc_iol6drk08_1786448652544",
+      "itemName": "test item",
+      "type": "IN",
+      "quantity": 2,
+      "reason": "Example",
+      "date": "2026-08-11T11:45:27.726Z"
+    },
+    "doc_dmqsyvt2j_1786448750539": {
+      "itemId": "doc_iol6drk08_1786448652544",
+      "itemName": "test item",
+      "type": "OUT",
+      "quantity": 1,
+      "reason": "example",
+      "date": "2026-08-11T11:45:50.537Z"
+    }
+  }
+}
